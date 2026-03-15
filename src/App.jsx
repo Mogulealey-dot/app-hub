@@ -67,7 +67,7 @@ const APPS = [
     tagline: 'Developer portfolio',
     description:
       'Personal portfolio showcasing projects, skills and contact links.',
-    url: 'https://link-in-bio-pi-six.vercel.app',
+    url: 'https://mogul-portfolio.netlify.app',
     icon: '🚀',
     color: '#c9a84c',
     category: 'Personal',
