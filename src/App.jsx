@@ -43,7 +43,7 @@ const APPS = [
     tagline: 'Gym session logger',
     description:
       'Log workouts, track PRs, rest timer, rep counter, body stats and workout calendar.',
-    url: 'https://workout-tracker-mogulealey.netlify.app',
+    url: 'https://mogul-fitness.netlify.app',
     icon: '💪',
     color: '#f56565',
     category: 'Health',
