@@ -55,7 +55,7 @@ const APPS = [
     tagline: 'Count down to what matters',
     description:
       'Live countdowns with categories, confetti, recurring events, reminders and shareable links.',
-    url: 'https://event-countdown-mogulealey.netlify.app',
+    url: 'https://mogul-countdown.netlify.app',
     icon: '⏳',
     color: '#63b3ed',
     category: 'Productivity',
