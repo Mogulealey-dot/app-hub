@@ -7,7 +7,7 @@ const APPS = [
     tagline: 'AI-powered note-taking',
     description:
       'Local-first notes with AI writing, knowledge graph, public sharing and real-time collaboration.',
-    url: 'https://nexus-notes-five.vercel.app',
+    url: 'https://mogul-notes.com',
     icon: '📝',
     color: '#7c6af7',
     category: 'Productivity',
