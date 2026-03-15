@@ -19,7 +19,7 @@ const APPS = [
     tagline: 'Home management system',
     description:
       'Track inventory, warranties, projects, utilities and contractors for your home.',
-    url: '#',
+    url: 'https://chibohome.netlify.app',
     icon: '🏠',
     color: '#34c972',
     category: 'Lifestyle',
@@ -31,7 +31,7 @@ const APPS = [
     tagline: 'Personal learning platform',
     description:
       'Flashcards, quizzes, exam countdowns, grade tracker, mind maps and more.',
-    url: '#',
+    url: 'https://mogulealey.com',
     icon: '🎓',
     color: '#f5a623',
     category: 'Education',
